@@ -1,1 +1,4 @@
 git hub is a git hub for hosting your website for free
+as long as you have something called github pages
+and the default branch is the gh-pages branch with the master brach being 
+deleted
